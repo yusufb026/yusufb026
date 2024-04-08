@@ -8,22 +8,14 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <br />
-I'm a professional and passionate web and mobile developer with over 7 years of remote work experience. I specialize in front-end development using modern frameworks like React and Vue, as well as back-end development with Python. 
-
+I'm a professional and passionate full stack developer with over 7 years of remote work experience. I specialize in front-end development using modern frameworks like React and Vue, as well as back-end development with Python.
+Additionally, I have rich experience with developing blockchain, smart contract, solidity, solana, web3, NFT, bot, and RAG system.
+Specially, I enjoy development the crypto bot, and smart contract.
 Throughout my career, I have successfully delivered numerous projects using technologies such as Next.js, React Native, Android (Java/Kotlin), Swift, and Flutter. I am well-versed in responsive design principles and can transform your design into a fully functional and visually appealing application that works seamlessly across devices.
 
 In addition to my technical skills, I have hands-on experience with popular UI libraries like Tailwind CSS and Material-UI. I have also utilized cloud platforms such as Google Firebase and Amazon Web Services (AWS) to build scalable and robust applications.
 
-You can find links to some of my previous work experiences above, showcasing my ability to bring design prototypes to life and align them with your business goals.
-
 I am committed to delivering high-quality solutions and leveraging my expertise to contribute to the success of your projects. Let's collaborate and create something amazing!
-
- <div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
-</div>
-    
-<!-- - 💬 Telegram : [@pdev217](https://t.me/pdev217/);
-- 📝 Email : sgirad86@gmail.com -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
