@@ -8,14 +8,13 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <br />
-I'm a professional and passionate full stack developer with over 7 years of remote work experience. I specialize in front-end development using modern frameworks like React and Vue, as well as back-end development with Python.
-Additionally, I have rich experience with developing blockchain, smart contract, solidity, solana, web3, NFT, bot, and RAG system.
-Specially, I enjoy development the crypto bot, and smart contract.
-Throughout my career, I have successfully delivered numerous projects using technologies such as Next.js, React Native, Android (Java/Kotlin), Swift, and Flutter. I am well-versed in responsive design principles and can transform your design into a fully functional and visually appealing application that works seamlessly across devices.
+As a seasoned full stack developer with a proven track record of over 7 years in remote work, I bring a wealth of expertise in front-end development utilizing cutting-edge frameworks like React and Vue, as well as proficient back-end development skills with Python. My passion and proficiency extend into the realm of blockchain technology, where I excel in developing smart contracts using Solidity, Solana, EVM, SVM, and web3, as well as creating innovative applications in the NFT space.
 
-In addition to my technical skills, I have hands-on experience with popular UI libraries like Tailwind CSS and Material-UI. I have also utilized cloud platforms such as Google Firebase and Amazon Web Services (AWS) to build scalable and robust applications.
+My technical prowess is not limited to traditional web development - I have a strong focus on blockchain technology, particularly in Web3, DApps, DeFi, and DAOs, where I have successfully deployed various crypto bots like Front Running, Market Making, Arbitrage, and more. I boast specialized knowledge in Solana and EVM, and possess hands-on experience in developing Telegram, Discord, Sandwich, and MEV bots, as well as providing valuable services in token and NFT development and marketing.
 
-I am committed to delivering high-quality solutions and leveraging my expertise to contribute to the success of your projects. Let's collaborate and create something amazing!
+With skills ranging from smart contract development to blockchain protocols and beyond, I am equipped to support and elevate your blockchain and cryptocurrency projects. My dedication to delivering top-tier solutions and my deep technical understanding make me the ideal partner for bringing your ideas to fruition in the dynamic world of blockchain technology.
+
+Let's collaborate and embark on a journey to craft remarkable, cutting-edge solutions that push the boundaries of innovation and excellence in the blockchain sphere. Together, we can create something truly extraordinary.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
